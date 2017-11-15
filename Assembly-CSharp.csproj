@@ -51,10 +51,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\FPS_Camara.cs" />
-     <Compile Include="Assets\ObjetoCodigo\CreaciónEscalera.cs" />
-     <Compile Include="Assets\ObjetoCodigo\CreaciónEscaleraBase.cs" />
-     <Compile Include="Assets\ObjetoCodigo\CreaciónSegundoPiso.cs" />
+     <Compile Include="Assets\0000 a colormap terrainshader final\Scripts\CustomTerrainScriptColorMap.cs" />
+     <Compile Include="Assets\Luces\Lamparas.cs" />
+     <Compile Include="Assets\Scripts\CreaciónEscalera.cs" />
+     <Compile Include="Assets\Scripts\CreaciónEscaleraBase.cs" />
+     <Compile Include="Assets\Scripts\CreaciónSegundoPiso.cs" />
+     <Compile Include="Assets\Scripts\FPS_Camara.cs" />
+     <Compile Include="Assets\Scripts\Rotacion de escenario.cs" />
+     <Compile Include="Assets\Scripts\Rotacion.cs" />
+     <None Include="Assets\DayNightCycle\TOD\shader\SkyboxBlend.shader" />
+     <None Include="Assets\0000 a colormap terrainshader final\Resources\TerrainReplacementColorMap_noiftexturefetch.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

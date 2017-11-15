@@ -604,8 +604,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: bd2279ee-441c-425d-bb42-bdb3382b861e
-  projectName: "Casa de Miguel Hidalgo y Costilla, Centro Hist\xF3rico de Colima"
+  cloudProjectId: 0c79731f-8ca3-4599-8148-0707e7d41157
+  projectName: "Casa de Miguel Hidalgo Centro Hist\xF3rico de Colima"
   organizationId: chomydeltoro
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0

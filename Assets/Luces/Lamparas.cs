@@ -8,10 +8,9 @@ public class Lamparas : MonoBehaviour {
 
     public bool encendida = false;
 
-
     void OnTriggerStay(Collider other)
     {
-        if(other.tag == "MainCamera")
+        if(other.tag == "Player")
         {
             luz.SetActive(true);
             encendida = true;
@@ -20,7 +19,7 @@ public class Lamparas : MonoBehaviour {
 
     void OnTriggerExit(Collider other)
     {
-        if (other.tag == "MainCamera")
+        if (other.tag == "Player")
         {
             luz.SetActive(false);
             encendida = false;
