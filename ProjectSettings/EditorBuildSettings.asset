@@ -11,6 +11,6 @@ EditorBuildSettings:
   - enabled: 1
     path: "Assets/Proyectos/ProyectoD\xEDa.unity"
     guid: 6c6b8b7805f772547a2608e54f6ff381
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Proyectos/ProyectoNoche.unity
+    guid: ac6321e2d66864d4581dec544db474de
